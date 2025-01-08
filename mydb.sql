@@ -104,6 +104,7 @@ INSERT INTO `pelanggan` (`idPelanggan`, `Nama_Pelanggan`, `Alamat_Pelanggan`, `N
 (303, 'Siti Rahmawati', 'Jl. Flamboyan No. 2', '081333571794', 'teknik@gmail.com'),
 (304, 'Agung Pratama', 'Jl. Dahlia No. 8', '081333571765', 'yoscheer@gmail.com'),
 (305, 'Wati Suryani', 'Jl. Mawar Putih No. 5', '081333571788', 'yoyus@gmail.com');
+(306, 'Denis Utomo', 'Jl. Mawar Merah No. 5', '081333571123', 'denis@gmail.com');
 
 -- --------------------------------------------------------
 
